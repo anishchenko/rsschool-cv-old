@@ -1,19 +1,3 @@
-rsschool-cv
-Andrei Kryvetski
-Contacts
-Location: Minsk, Belarus
-Phone: +375 29 134-40-41
-Email: kryvetskistud@gmail.com
-GitHub: kryvetski-andrei
-About Me
-I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
-I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
-
-Skills
-HTML
-CSS/SASS
-JavaScript (Basic)
-Git
 [rsschool-cv](https://rs.school/)
 # Oleksandr Anishchenko
 
