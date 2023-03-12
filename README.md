@@ -1,2 +1,1 @@
-# rsschool-cv
-Demo: https://anishchenko.github.io/rsschool-cv/cv
+https://anishchenko.github.io/rsschool-cv/
