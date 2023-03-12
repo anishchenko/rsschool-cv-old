@@ -13,7 +13,7 @@ Aliquam et ultricies dolor. Nam eu tincidunt sapien. Suspendisse interdum turpis
 3. **JS**
 4. **SCSS (basic)**
 ## Code Example
-*[Github](https://github.com/anishchenko/)*
+- [Github](https://github.com/anishchenko/)
 ## Education
 - Nationl aviation university
 ## English
